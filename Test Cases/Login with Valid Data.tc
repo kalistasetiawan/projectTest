@@ -5,4 +5,30 @@
    <tag>loginValidDataTest</tag>
    <comment></comment>
    <testCaseGuid>d2eb3567-f9a3-4a1d-8221-fd4a3bcd1546</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1c4913fd-c6a8-476c-a7fe-4cd743b14742</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c8f8c6b0-a958-4488-bdc1-bf960e4b9e8a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>1c4913fd-c6a8-476c-a7fe-4cd743b14742</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>c8f8c6b0-a958-4488-bdc1-bf960e4b9e8a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
 </TestCaseEntity>
