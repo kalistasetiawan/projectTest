@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with Valid Data at URL: https://katalon-demo-cura.herokuapp.com/</description>
+   <name>Login with Valid Data</name>
+   <tag>loginValidDataTest</tag>
+   <comment></comment>
+   <testCaseGuid>d2eb3567-f9a3-4a1d-8221-fd4a3bcd1546</testCaseGuid>
+</TestCaseEntity>
