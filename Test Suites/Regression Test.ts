@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Test All Test Case</description>
+   <name>Regression Test</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>9f028aea-eb3a-4305-8145-c6e7c370c22c</testSuiteGuid>
+   <testCaseLink>
+      <guid>4eecf947-90b0-46d9-9d27-ffd7fc068ee4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login with Invalid Data</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c8f1f903-d0f2-4192-805e-f6a3cbe2c2dc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Invalid Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>c8f1f903-d0f2-4192-805e-f6a3cbe2c2dc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>1e9dd66a-c725-4c57-bdc4-c27d7c8efb4d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c8f1f903-d0f2-4192-805e-f6a3cbe2c2dc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>71782308-bb2c-41dc-91b0-73cda5ff5bad</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>803b4664-f5b7-4e39-93fa-caf440fd95fc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login with Valid Data</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1c4913fd-c6a8-476c-a7fe-4cd743b14742</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c8f8c6b0-a958-4488-bdc1-bf960e4b9e8a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>25f00322-fa37-415f-8c17-6ea7018dbcf8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Make Appointment Success</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b9a19ad8-85b8-4ace-98a2-1d3479cae300</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Appointment List</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b9a19ad8-85b8-4ace-98a2-1d3479cae300</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>9b9d01f2-620e-4902-9ed8-ff4e46b808df</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b9a19ad8-85b8-4ace-98a2-1d3479cae300</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>0af626bb-ca26-4fd4-a8a1-a0042352f995</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b9a19ad8-85b8-4ace-98a2-1d3479cae300</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>facilityOptions</value>
+         <variableId>618b9b98-0f3b-444e-b9f2-13c2c5767a50</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>916fd80f-d457-4a66-a2aa-3c074f6e1282</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Make Appointment without Input Mandatory Field</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>cb513b04-c923-4798-b99b-f55768535fa0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c693cf44-48e6-4865-8197-a312d53c27fa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>30743813-be6c-4f03-85ea-b1293c69773d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

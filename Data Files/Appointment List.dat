@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>List Appointment</description>
+   <name>Appointment List</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>75f9597b-f37d-4bfc-8fc2-230bbf33676b</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>John+Doe g3%2FDOGG74jC3Flrr3yH%2B3D%2FyKbOqqUNM Seoul+CURA+Healthcare+Center</data>
+   <data>John+Doe g3%2FDOGG74jC3Flrr3yH%2B3D%2FyKbOqqUNM Hongkong+CURA+Healthcare+Center</data>
+   <data>John+Doe g3%2FDOGG74jC3Flrr3yH%2B3D%2FyKbOqqUNM Tokyo+CURA+Healthcare+Center</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>username</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>password</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>facilityOptions</name>
+      <size>3</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

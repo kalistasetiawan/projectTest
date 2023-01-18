@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make Appointment Success at URL:https://katalon-demo-cura.herokuapp.com/#appointment</description>
+   <name>Make Appointment Success</name>
+   <tag>MakeAppointmentSuccess</tag>
+   <comment></comment>
+   <testCaseGuid>53f465e0-ba7e-4183-95eb-c0a10c641ec6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9b9d01f2-620e-4902-9ed8-ff4e46b808df</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0af626bb-ca26-4fd4-a8a1-a0042352f995</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>618b9b98-0f3b-444e-b9f2-13c2c5767a50</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>9b9d01f2-620e-4902-9ed8-ff4e46b808df</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>0af626bb-ca26-4fd4-a8a1-a0042352f995</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Seoul CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>618b9b98-0f3b-444e-b9f2-13c2c5767a50</id>
+      <masked>false</masked>
+      <name>facilityOptions</name>
+   </variable>
+</TestCaseEntity>
